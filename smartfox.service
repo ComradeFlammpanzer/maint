@@ -1,0 +1,12 @@
+[Unit]
+Description=Smartfox
+
+[Service]
+Type=forking
+WorkingDirectory=/opt/SmartFoxServer_2X/SFS2X/
+ExecStart=/bin/bash /opt/SmartFoxServer_2X/SFS2X/sfs2x-service start
+User=smartfox
+ExecStop=/bin/bash /opt/SmartFoxServer_2X/SFS2X/sfs2x-service stop
+
+[Install]
+WantedBy=default.target
