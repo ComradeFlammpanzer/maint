@@ -1,0 +1,5 @@
+[mariadb]
+name=mariadb repo
+baseurl=http://mirror.timeweb.ru/mariadb/mariadb-10.2.12/yum/centos74-amd64/
+gpgcheck=0
+enabled=1
