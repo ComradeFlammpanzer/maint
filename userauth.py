@@ -1,5 +1,5 @@
 #!/usr/bin/env python2
-import bcrypt, sys
+import sys
 
 userpassfile="/tmp/user.pass"
 
