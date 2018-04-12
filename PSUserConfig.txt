@@ -1,0 +1,2 @@
+# Use WinTab C:\Users\[User Name]\AppData\Roaming\Adobe\Adobe Photoshop …..\Adobe Photoshop …… Settings\
+UseSystemStylus 0
