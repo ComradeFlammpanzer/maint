@@ -1,3 +1,4 @@
+*.tga
 *.jar
 *.3fr
 *.3gp
@@ -176,3 +177,4 @@
 *.APK
 *.RAR
 *.JAR
+*.TGA
