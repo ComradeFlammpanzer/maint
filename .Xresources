@@ -1,0 +1,13 @@
+! Adjusting the font
+xterm*faceName: Hack
+xterm*faceSize: 20
+
+! Changing foreground/background color
+xterm*background: #2B1520
+xterm*foreground: #FFFFFF
+
+! Adding a scroll-bar on the right side
+xterm*scrollBar: true
+xterm*rightScrollBar:true
+
+XTerm.termName: xterm-256color
